@@ -127,4 +127,4 @@ streamlit run app.py --server.port 8501
 
 ## 📄 License
 
-MIT License - see LICENSE file for details 
+MIT License - see LICENSE file for details
